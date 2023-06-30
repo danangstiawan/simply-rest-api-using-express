@@ -1,0 +1,12 @@
+/node_modules
+src/Utils/Config.js
+src/index
+.vs
+Results.json
+Hore.js
+Test-gitignore
+/coverage
+
+.env
+# */Utils/Config.js
+# **/**/Config.js
